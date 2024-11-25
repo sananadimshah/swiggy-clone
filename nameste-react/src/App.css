@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 100px;
+  border: 1px solid black;
+}
+.food-icon {
+  height: 80px;
+  width: 80px;
+}
+.nav-icons > ul {
+  list-style-type: none;
+  display: flex;
+  gap: 90px;
+}
